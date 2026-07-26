@@ -1,4 +1,4 @@
-# bootcamp-uset-with-bank-account
+# bootcamp-user-with-bank-account
 
 # Assignment: Users with Bank Accounts
 
